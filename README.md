@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BG4zi
 - 👀 I’m interested in Computer Science, Machine Learning,Image Processing, Network and Linguistics 
-- 🌱 I’m currently learning Vulkan, Rust
-- 📫 How to reach me on this email -> burakg4zichetin@gmail.com 
+- 🌱 I’m currently learning Embedded Systems.
+- 📫 You can reach me on this email -> burakg4zichetin@gmail.com 
 - ⚡ Fun fact: The word "robot" comes from the Czech word robota, meaning "forced labor"—and it was first used in a 1920 play about AI-like machines! 🤖
 
 <!---
